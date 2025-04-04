@@ -84,7 +84,7 @@
             Controls.Add(btnNotes);
             Controls.Add(btnCards);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Main Menu";
             ResumeLayout(false);
         }
 
