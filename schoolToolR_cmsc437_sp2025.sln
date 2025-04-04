@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolToolR_cmsc437_sp2025", "schoolToolR_cmsc437_sp2025\schoolToolR_cmsc437_sp2025.csproj", "{156E1A9B-69BC-478E-A785-1A4A15CFFECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156E1A9B-69BC-478E-A785-1A4A15CFFECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156E1A9B-69BC-478E-A785-1A4A15CFFECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156E1A9B-69BC-478E-A785-1A4A15CFFECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156E1A9B-69BC-478E-A785-1A4A15CFFECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A16A81-84F4-4F35-A5E2-37E45E2F4322}
+	EndGlobalSection
+EndGlobal
