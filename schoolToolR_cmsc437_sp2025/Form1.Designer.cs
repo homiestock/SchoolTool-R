@@ -42,6 +42,7 @@
             btnCards.TabIndex = 0;
             btnCards.Text = "Flashcards";
             btnCards.UseVisualStyleBackColor = true;
+            btnCards.Click += btnCards_Click;
             // 
             // btnNotes
             // 
@@ -51,6 +52,7 @@
             btnNotes.TabIndex = 0;
             btnNotes.Text = "Notebook";
             btnNotes.UseVisualStyleBackColor = true;
+            btnNotes.Click += btnNotes_Click;
             // 
             // btnNoteToCard
             // 
@@ -60,6 +62,7 @@
             btnNoteToCard.TabIndex = 0;
             btnNoteToCard.Text = "Note-2-Card";
             btnNoteToCard.UseVisualStyleBackColor = true;
+            btnNoteToCard.Click += btnNoteToCard_Click;
             // 
             // btnOptions
             // 
@@ -69,6 +72,7 @@
             btnOptions.TabIndex = 1;
             btnOptions.Text = "Options";
             btnOptions.UseVisualStyleBackColor = true;
+            btnOptions.Click += btnOptions_Click;
             // 
             // Form1
             // 

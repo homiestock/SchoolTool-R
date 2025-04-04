@@ -6,5 +6,25 @@ namespace schoolToolR_cmsc437_sp2025
         {
             InitializeComponent();
         }
+
+        private void btnCards_Click(object sender, EventArgs e)
+        {
+            // card main menu opens
+        }
+
+        private void btnNotes_Click(object sender, EventArgs e)
+        {
+            // note main menu opens
+        }
+
+        private void btnNoteToCard_Click(object sender, EventArgs e)
+        {
+            // note-2-card menu opens
+        }
+
+        private void btnOptions_Click(object sender, EventArgs e)
+        {
+            // options, about, accessability menu opens
+        }
     }
 }
